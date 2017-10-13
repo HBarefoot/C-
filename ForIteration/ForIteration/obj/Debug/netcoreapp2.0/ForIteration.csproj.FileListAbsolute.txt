@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/bin/Debug/netcoreapp2.0/ForIteration.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/bin/Debug/netcoreapp2.0/ForIteration.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/bin/Debug/netcoreapp2.0/ForIteration.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/bin/Debug/netcoreapp2.0/ForIteration.dll
+/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/bin/Debug/netcoreapp2.0/ForIteration.pdb
+/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/obj/Debug/netcoreapp2.0/ForIteration.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/obj/Debug/netcoreapp2.0/ForIteration.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/obj/Debug/netcoreapp2.0/ForIteration.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/obj/Debug/netcoreapp2.0/ForIteration.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/obj/Debug/netcoreapp2.0/ForIteration.dll
+/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/obj/Debug/netcoreapp2.0/ForIteration.pdb

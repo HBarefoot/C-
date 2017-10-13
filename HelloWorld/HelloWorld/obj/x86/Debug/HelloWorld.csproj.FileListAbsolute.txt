@@ -3,3 +3,8 @@
 /Users/henrybarefoot/Projects/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
 /Users/henrybarefoot/Projects/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
 /Users/henrybarefoot/Projects/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb
+/Users/henrybarefoot/gitHub/C-sharp/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/henrybarefoot/gitHub/C-sharp/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/henrybarefoot/gitHub/C-sharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/Users/henrybarefoot/gitHub/C-sharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb

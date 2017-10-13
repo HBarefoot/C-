@@ -2278,11 +2278,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/henrybarefoot/gitHub/C-sharp/ternary-operator/ternary-operator/ternary-operator.csproj",
-      "projectName": "ternary-operator",
-      "projectPath": "/Users/henrybarefoot/gitHub/C-sharp/ternary-operator/ternary-operator/ternary-operator.csproj",
+      "projectUniqueName": "/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/ForIteration.csproj",
+      "projectName": "ForIteration",
+      "projectPath": "/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/ForIteration.csproj",
       "packagesPath": "/Users/henrybarefoot/.nuget/packages/",
-      "outputPath": "/Users/henrybarefoot/gitHub/C-sharp/ternary-operator/ternary-operator/obj",
+      "outputPath": "/Users/henrybarefoot/gitHub/C-sharp/ForIteration/ForIteration/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/henrybarefoot/.config/NuGet/NuGet.Config"
