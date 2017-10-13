@@ -1,0 +1,5 @@
+/Users/henrybarefoot/Projects/variables/variables/bin/Debug/variables.exe
+/Users/henrybarefoot/Projects/variables/variables/bin/Debug/variables.pdb
+/Users/henrybarefoot/Projects/variables/variables/obj/x86/Debug/variables.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/Projects/variables/variables/obj/x86/Debug/variables.exe
+/Users/henrybarefoot/Projects/variables/variables/obj/x86/Debug/variables.pdb

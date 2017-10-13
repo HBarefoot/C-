@@ -1,0 +1,11 @@
+/Users/henrybarefoot/Projects/ternary-operator/ternary-operator/bin/Debug/netcoreapp2.0/ternary-operator.deps.json
+/Users/henrybarefoot/Projects/ternary-operator/ternary-operator/bin/Debug/netcoreapp2.0/ternary-operator.runtimeconfig.json
+/Users/henrybarefoot/Projects/ternary-operator/ternary-operator/bin/Debug/netcoreapp2.0/ternary-operator.runtimeconfig.dev.json
+/Users/henrybarefoot/Projects/ternary-operator/ternary-operator/bin/Debug/netcoreapp2.0/ternary-operator.dll
+/Users/henrybarefoot/Projects/ternary-operator/ternary-operator/bin/Debug/netcoreapp2.0/ternary-operator.pdb
+/Users/henrybarefoot/Projects/ternary-operator/ternary-operator/obj/Debug/netcoreapp2.0/ternary-operator.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/Projects/ternary-operator/ternary-operator/obj/Debug/netcoreapp2.0/ternary-operator.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/Projects/ternary-operator/ternary-operator/obj/Debug/netcoreapp2.0/ternary-operator.AssemblyInfoInputs.cache
+/Users/henrybarefoot/Projects/ternary-operator/ternary-operator/obj/Debug/netcoreapp2.0/ternary-operator.AssemblyInfo.cs
+/Users/henrybarefoot/Projects/ternary-operator/ternary-operator/obj/Debug/netcoreapp2.0/ternary-operator.dll
+/Users/henrybarefoot/Projects/ternary-operator/ternary-operator/obj/Debug/netcoreapp2.0/ternary-operator.pdb

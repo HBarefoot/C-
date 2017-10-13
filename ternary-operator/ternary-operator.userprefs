@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C767876D-4267-41AF-BFE2-10A55ECAF087}|Default">
+  <MonoDevelop.Ide.ItemProperties.ternary-operator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ternary-operator/Program.cs">
+    <Files>
+      <File FileName="ternary-operator/Program.cs" Line="21" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

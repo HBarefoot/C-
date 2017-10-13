@@ -1,0 +1,5 @@
+/Users/henrybarefoot/Projects/Decisions/Decisions/bin/Debug/Decisions.exe
+/Users/henrybarefoot/Projects/Decisions/Decisions/bin/Debug/Decisions.pdb
+/Users/henrybarefoot/Projects/Decisions/Decisions/obj/x86/Debug/Decisions.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/Projects/Decisions/Decisions/obj/x86/Debug/Decisions.exe
+/Users/henrybarefoot/Projects/Decisions/Decisions/obj/x86/Debug/Decisions.pdb
