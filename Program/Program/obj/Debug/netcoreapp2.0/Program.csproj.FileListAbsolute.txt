@@ -1,0 +1,11 @@
+/Users/henrybarefoot/Projects/Program/Program/bin/Debug/netcoreapp2.0/Program.deps.json
+/Users/henrybarefoot/Projects/Program/Program/bin/Debug/netcoreapp2.0/Program.runtimeconfig.json
+/Users/henrybarefoot/Projects/Program/Program/bin/Debug/netcoreapp2.0/Program.runtimeconfig.dev.json
+/Users/henrybarefoot/Projects/Program/Program/bin/Debug/netcoreapp2.0/Program.dll
+/Users/henrybarefoot/Projects/Program/Program/bin/Debug/netcoreapp2.0/Program.pdb
+/Users/henrybarefoot/Projects/Program/Program/obj/Debug/netcoreapp2.0/Program.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/Projects/Program/Program/obj/Debug/netcoreapp2.0/Program.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/Projects/Program/Program/obj/Debug/netcoreapp2.0/Program.AssemblyInfoInputs.cache
+/Users/henrybarefoot/Projects/Program/Program/obj/Debug/netcoreapp2.0/Program.AssemblyInfo.cs
+/Users/henrybarefoot/Projects/Program/Program/obj/Debug/netcoreapp2.0/Program.dll
+/Users/henrybarefoot/Projects/Program/Program/obj/Debug/netcoreapp2.0/Program.pdb

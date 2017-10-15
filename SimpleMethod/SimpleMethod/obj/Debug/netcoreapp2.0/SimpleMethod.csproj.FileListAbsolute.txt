@@ -1,0 +1,11 @@
+/Users/henrybarefoot/Projects/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.0/SimpleMethod.deps.json
+/Users/henrybarefoot/Projects/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.0/SimpleMethod.runtimeconfig.json
+/Users/henrybarefoot/Projects/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.0/SimpleMethod.runtimeconfig.dev.json
+/Users/henrybarefoot/Projects/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.0/SimpleMethod.dll
+/Users/henrybarefoot/Projects/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp2.0/SimpleMethod.pdb
+/Users/henrybarefoot/Projects/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.0/SimpleMethod.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/Projects/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.0/SimpleMethod.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/Projects/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.0/SimpleMethod.AssemblyInfoInputs.cache
+/Users/henrybarefoot/Projects/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.0/SimpleMethod.AssemblyInfo.cs
+/Users/henrybarefoot/Projects/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.0/SimpleMethod.dll
+/Users/henrybarefoot/Projects/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp2.0/SimpleMethod.pdb

@@ -1,8 +1,7 @@
-﻿<Properties StartupConfiguration="{8AB17C48-E973-4EE3-8143-17E808589936}|Default">
-  <MonoDevelop.Ide.ItemProperties.ForIteration PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ForIteration/Program.cs">
+﻿<Properties StartupConfiguration="{91E7C52F-B02D-443C-8A82-D24D15596060}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="method/Program.cs">
     <Files>
-      <File FileName="ForIteration/Program.cs" Line="21" Column="59" />
+      <File FileName="method/Program.cs" Line="8" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -11,4 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.method PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
