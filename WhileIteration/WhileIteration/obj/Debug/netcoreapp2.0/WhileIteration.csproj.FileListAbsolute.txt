@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/WhileIteration/WhileIteration/bin/Debug/netcoreapp2.0/WhileIteration.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/WhileIteration/WhileIteration/bin/Debug/netcoreapp2.0/WhileIteration.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/WhileIteration/WhileIteration/bin/Debug/netcoreapp2.0/WhileIteration.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/WhileIteration/WhileIteration/bin/Debug/netcoreapp2.0/WhileIteration.dll
+/Users/henrybarefoot/gitHub/C-sharp/WhileIteration/WhileIteration/bin/Debug/netcoreapp2.0/WhileIteration.pdb
+/Users/henrybarefoot/gitHub/C-sharp/WhileIteration/WhileIteration/obj/Debug/netcoreapp2.0/WhileIteration.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/WhileIteration/WhileIteration/obj/Debug/netcoreapp2.0/WhileIteration.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/WhileIteration/WhileIteration/obj/Debug/netcoreapp2.0/WhileIteration.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/WhileIteration/WhileIteration/obj/Debug/netcoreapp2.0/WhileIteration.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/WhileIteration/WhileIteration/obj/Debug/netcoreapp2.0/WhileIteration.dll
+/Users/henrybarefoot/gitHub/C-sharp/WhileIteration/WhileIteration/obj/Debug/netcoreapp2.0/WhileIteration.pdb
