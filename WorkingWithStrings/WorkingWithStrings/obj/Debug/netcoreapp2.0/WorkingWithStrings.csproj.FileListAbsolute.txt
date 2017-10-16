@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.0/WorkingWithStrings.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.0/WorkingWithStrings.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.0/WorkingWithStrings.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.0/WorkingWithStrings.dll
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp2.0/WorkingWithStrings.pdb
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.0/WorkingWithStrings.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.0/WorkingWithStrings.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.0/WorkingWithStrings.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.0/WorkingWithStrings.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.0/WorkingWithStrings.dll
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp2.0/WorkingWithStrings.pdb
