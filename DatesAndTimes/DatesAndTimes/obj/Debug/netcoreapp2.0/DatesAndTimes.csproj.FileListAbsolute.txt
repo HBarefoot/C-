@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.dll
+/Users/henrybarefoot/gitHub/C-sharp/DatesAndTimes/DatesAndTimes/bin/Debug/netcoreapp2.0/DatesAndTimes.pdb
+/Users/henrybarefoot/gitHub/C-sharp/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.dll
+/Users/henrybarefoot/gitHub/C-sharp/DatesAndTimes/DatesAndTimes/obj/Debug/netcoreapp2.0/DatesAndTimes.pdb
