@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{E814B67A-74FA-4AAA-8B46-C438B85BF3D8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DatesAndTimes/Program.cs">
+﻿<Properties StartupConfiguration="{1BD30CE3-43E3-4889-B6B7-F2ED216B4DA2}|Default">
+  <MonoDevelop.Ide.ItemProperties.SimpleClass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleClass/Program.cs">
     <Files>
-      <File FileName="DatesAndTimes/Program.cs" Line="36" Column="1" />
+      <File FileName="SimpleClass/Program.cs" Line="26" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +11,4 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DatesAndTimes PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

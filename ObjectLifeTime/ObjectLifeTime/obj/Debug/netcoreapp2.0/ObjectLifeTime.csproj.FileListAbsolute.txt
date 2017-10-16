@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/ObjectLifeTime/ObjectLifeTime/bin/Debug/netcoreapp2.0/ObjectLifeTime.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/ObjectLifeTime/ObjectLifeTime/bin/Debug/netcoreapp2.0/ObjectLifeTime.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/ObjectLifeTime/ObjectLifeTime/bin/Debug/netcoreapp2.0/ObjectLifeTime.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/ObjectLifeTime/ObjectLifeTime/bin/Debug/netcoreapp2.0/ObjectLifeTime.dll
+/Users/henrybarefoot/gitHub/C-sharp/ObjectLifeTime/ObjectLifeTime/bin/Debug/netcoreapp2.0/ObjectLifeTime.pdb
+/Users/henrybarefoot/gitHub/C-sharp/ObjectLifeTime/ObjectLifeTime/obj/Debug/netcoreapp2.0/ObjectLifeTime.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/ObjectLifeTime/ObjectLifeTime/obj/Debug/netcoreapp2.0/ObjectLifeTime.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/ObjectLifeTime/ObjectLifeTime/obj/Debug/netcoreapp2.0/ObjectLifeTime.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/ObjectLifeTime/ObjectLifeTime/obj/Debug/netcoreapp2.0/ObjectLifeTime.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/ObjectLifeTime/ObjectLifeTime/obj/Debug/netcoreapp2.0/ObjectLifeTime.dll
+/Users/henrybarefoot/gitHub/C-sharp/ObjectLifeTime/ObjectLifeTime/obj/Debug/netcoreapp2.0/ObjectLifeTime.pdb
