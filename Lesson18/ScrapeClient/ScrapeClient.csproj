@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MycodeLibrary">
+      <HintPath>..\..\MycodeLibrary\MycodeLibrary\bin\Release\netcoreapp2.0\MycodeLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+/Users/henrybarefoot/gitHub/C-sharp/myClient/myClient/bin/Debug/netcoreapp2.0/myClient.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/myClient/myClient/bin/Debug/netcoreapp2.0/myClient.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/myClient/myClient/bin/Debug/netcoreapp2.0/myClient.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/myClient/myClient/bin/Debug/netcoreapp2.0/myClient.dll
+/Users/henrybarefoot/gitHub/C-sharp/myClient/myClient/bin/Debug/netcoreapp2.0/myClient.pdb
+/Users/henrybarefoot/gitHub/C-sharp/myClient/myClient/bin/Debug/netcoreapp2.0/MycodeLibrary.dll
+/Users/henrybarefoot/gitHub/C-sharp/myClient/myClient/bin/Debug/netcoreapp2.0/MycodeLibrary.pdb
+/Users/henrybarefoot/gitHub/C-sharp/myClient/myClient/obj/Debug/netcoreapp2.0/myClient.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/myClient/myClient/obj/Debug/netcoreapp2.0/myClient.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/myClient/myClient/obj/Debug/netcoreapp2.0/myClient.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/myClient/myClient/obj/Debug/netcoreapp2.0/myClient.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/myClient/myClient/obj/Debug/netcoreapp2.0/myClient.dll
+/Users/henrybarefoot/gitHub/C-sharp/myClient/myClient/obj/Debug/netcoreapp2.0/myClient.pdb

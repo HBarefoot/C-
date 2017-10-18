@@ -1,0 +1,13 @@
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeClient/obj/Release/netcoreapp2.0/ScrapeClient.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeClient/obj/Release/netcoreapp2.0/ScrapeClient.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeClient/obj/Release/netcoreapp2.0/ScrapeClient.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeClient/obj/Release/netcoreapp2.0/ScrapeClient.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeClient/bin/Release/netcoreapp2.0/ScrapeClient.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeClient/bin/Release/netcoreapp2.0/ScrapeClient.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeClient/bin/Release/netcoreapp2.0/ScrapeClient.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeClient/bin/Release/netcoreapp2.0/ScrapeClient.dll
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeClient/bin/Release/netcoreapp2.0/ScrapeClient.pdb
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeClient/obj/Release/netcoreapp2.0/ScrapeClient.dll
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeClient/obj/Release/netcoreapp2.0/ScrapeClient.pdb
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeClient/bin/Release/netcoreapp2.0/MycodeLibrary.dll
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeClient/bin/Release/netcoreapp2.0/MycodeLibrary.pdb

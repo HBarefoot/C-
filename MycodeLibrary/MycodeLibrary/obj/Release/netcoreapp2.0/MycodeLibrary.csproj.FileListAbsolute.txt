@@ -1,0 +1,8 @@
+/Users/henrybarefoot/gitHub/C-sharp/MycodeLibrary/MycodeLibrary/bin/Release/netcoreapp2.0/MycodeLibrary.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/MycodeLibrary/MycodeLibrary/bin/Release/netcoreapp2.0/MycodeLibrary.dll
+/Users/henrybarefoot/gitHub/C-sharp/MycodeLibrary/MycodeLibrary/bin/Release/netcoreapp2.0/MycodeLibrary.pdb
+/Users/henrybarefoot/gitHub/C-sharp/MycodeLibrary/MycodeLibrary/obj/Release/netcoreapp2.0/MycodeLibrary.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/MycodeLibrary/MycodeLibrary/obj/Release/netcoreapp2.0/MycodeLibrary.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/MycodeLibrary/MycodeLibrary/obj/Release/netcoreapp2.0/MycodeLibrary.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/MycodeLibrary/MycodeLibrary/obj/Release/netcoreapp2.0/MycodeLibrary.dll
+/Users/henrybarefoot/gitHub/C-sharp/MycodeLibrary/MycodeLibrary/obj/Release/netcoreapp2.0/MycodeLibrary.pdb

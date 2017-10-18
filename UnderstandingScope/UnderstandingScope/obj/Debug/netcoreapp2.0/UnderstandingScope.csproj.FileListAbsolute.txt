@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp2.0/UnderstandingScope.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp2.0/UnderstandingScope.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp2.0/UnderstandingScope.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp2.0/UnderstandingScope.dll
+/Users/henrybarefoot/gitHub/C-sharp/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp2.0/UnderstandingScope.pdb
+/Users/henrybarefoot/gitHub/C-sharp/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp2.0/UnderstandingScope.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp2.0/UnderstandingScope.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp2.0/UnderstandingScope.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp2.0/UnderstandingScope.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp2.0/UnderstandingScope.dll
+/Users/henrybarefoot/gitHub/C-sharp/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp2.0/UnderstandingScope.pdb

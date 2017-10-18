@@ -1,0 +1,5 @@
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeLibrary/bin/Debug/ScrapeLibrary.dll
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeLibrary/bin/Debug/ScrapeLibrary.pdb
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeLibrary/obj/Debug/ScrapeLibrary.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeLibrary/obj/Debug/ScrapeLibrary.dll
+/Users/henrybarefoot/gitHub/C-sharp/Lesson18/ScrapeLibrary/obj/Debug/ScrapeLibrary.pdb

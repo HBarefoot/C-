@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{23300637-182E-43F5-B003-BEC1390FBFE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScrapeLibrary/Scrape.cs">
+    <Files>
+      <File FileName="ScrapeLibrary/Scrape.cs" Line="28" Column="1" />
+      <File FileName="ScrapeClient/Program.cs" Line="21" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson18" expanded="True">
+            <Node name="ScrapeClient" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="AssemblyDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ScrapeLibrary" expanded="True">
+              <Node name="Scrape.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ScrapeClient PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

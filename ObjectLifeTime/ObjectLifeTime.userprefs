@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{6E7DC01D-8E67-4B92-B89A-2A93C20BED20}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ObjectLifeTime/Program.cs">
     <Files>
-      <File FileName="ObjectLifeTime/Program.cs" Line="9" Column="13" />
+      <File FileName="ObjectLifeTime/Program.cs" Line="27" Column="59" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
