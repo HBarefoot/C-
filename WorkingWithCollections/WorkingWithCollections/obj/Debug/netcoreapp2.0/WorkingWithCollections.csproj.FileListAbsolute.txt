@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.0/WorkingWithCollections.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.0/WorkingWithCollections.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.0/WorkingWithCollections.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.0/WorkingWithCollections.dll
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithCollections/WorkingWithCollections/bin/Debug/netcoreapp2.0/WorkingWithCollections.pdb
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.0/WorkingWithCollections.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.0/WorkingWithCollections.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.0/WorkingWithCollections.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.0/WorkingWithCollections.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.0/WorkingWithCollections.dll
+/Users/henrybarefoot/gitHub/C-sharp/WorkingWithCollections/WorkingWithCollections/obj/Debug/netcoreapp2.0/WorkingWithCollections.pdb
