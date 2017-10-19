@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/UnderStandingLINQ/UnderStandingLINQ/bin/Debug/netcoreapp2.0/UnderStandingLINQ.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/UnderStandingLINQ/UnderStandingLINQ/bin/Debug/netcoreapp2.0/UnderStandingLINQ.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/UnderStandingLINQ/UnderStandingLINQ/bin/Debug/netcoreapp2.0/UnderStandingLINQ.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/UnderStandingLINQ/UnderStandingLINQ/bin/Debug/netcoreapp2.0/UnderStandingLINQ.dll
+/Users/henrybarefoot/gitHub/C-sharp/UnderStandingLINQ/UnderStandingLINQ/bin/Debug/netcoreapp2.0/UnderStandingLINQ.pdb
+/Users/henrybarefoot/gitHub/C-sharp/UnderStandingLINQ/UnderStandingLINQ/obj/Debug/netcoreapp2.0/UnderStandingLINQ.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/UnderStandingLINQ/UnderStandingLINQ/obj/Debug/netcoreapp2.0/UnderStandingLINQ.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/UnderStandingLINQ/UnderStandingLINQ/obj/Debug/netcoreapp2.0/UnderStandingLINQ.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/UnderStandingLINQ/UnderStandingLINQ/obj/Debug/netcoreapp2.0/UnderStandingLINQ.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/UnderStandingLINQ/UnderStandingLINQ/obj/Debug/netcoreapp2.0/UnderStandingLINQ.dll
+/Users/henrybarefoot/gitHub/C-sharp/UnderStandingLINQ/UnderStandingLINQ/obj/Debug/netcoreapp2.0/UnderStandingLINQ.pdb

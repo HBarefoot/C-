@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.0/EnumsAndSwitch.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.0/EnumsAndSwitch.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.0/EnumsAndSwitch.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.0/EnumsAndSwitch.dll
+/Users/henrybarefoot/gitHub/C-sharp/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp2.0/EnumsAndSwitch.pdb
+/Users/henrybarefoot/gitHub/C-sharp/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.0/EnumsAndSwitch.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.0/EnumsAndSwitch.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.0/EnumsAndSwitch.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.0/EnumsAndSwitch.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.0/EnumsAndSwitch.dll
+/Users/henrybarefoot/gitHub/C-sharp/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp2.0/EnumsAndSwitch.pdb

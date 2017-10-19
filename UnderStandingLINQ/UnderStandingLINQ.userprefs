@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{36A4B890-4373-46B5-9016-3C4AFF23E22D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnderStandingLINQ/Program.cs">
+    <Files>
+      <File FileName="UnderStandingLINQ/Program.cs" Line="36" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnderStandingLINQ" expanded="True">
+            <Node name="UnderStandingLINQ" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UnderStandingLINQ PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
