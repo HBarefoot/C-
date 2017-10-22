@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/TimerExample/TimerExample/obj/Debug/netcoreapp2.0/TimerExample.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/TimerExample/TimerExample/obj/Debug/netcoreapp2.0/TimerExample.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/TimerExample/TimerExample/obj/Debug/netcoreapp2.0/TimerExample.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/TimerExample/TimerExample/obj/Debug/netcoreapp2.0/TimerExample.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/TimerExample/TimerExample/bin/Debug/netcoreapp2.0/TimerExample.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/TimerExample/TimerExample/bin/Debug/netcoreapp2.0/TimerExample.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/TimerExample/TimerExample/bin/Debug/netcoreapp2.0/TimerExample.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/TimerExample/TimerExample/bin/Debug/netcoreapp2.0/TimerExample.dll
+/Users/henrybarefoot/gitHub/C-sharp/TimerExample/TimerExample/bin/Debug/netcoreapp2.0/TimerExample.pdb
+/Users/henrybarefoot/gitHub/C-sharp/TimerExample/TimerExample/obj/Debug/netcoreapp2.0/TimerExample.dll
+/Users/henrybarefoot/gitHub/C-sharp/TimerExample/TimerExample/obj/Debug/netcoreapp2.0/TimerExample.pdb

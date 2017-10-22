@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/Multiplication/Multiplication/obj/Debug/netcoreapp2.0/Multiplication.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/Multiplication/Multiplication/obj/Debug/netcoreapp2.0/Multiplication.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/Multiplication/Multiplication/obj/Debug/netcoreapp2.0/Multiplication.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/Multiplication/Multiplication/obj/Debug/netcoreapp2.0/Multiplication.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/Multiplication/Multiplication/bin/Debug/netcoreapp2.0/Multiplication.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/Multiplication/Multiplication/bin/Debug/netcoreapp2.0/Multiplication.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/Multiplication/Multiplication/bin/Debug/netcoreapp2.0/Multiplication.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/Multiplication/Multiplication/bin/Debug/netcoreapp2.0/Multiplication.dll
+/Users/henrybarefoot/gitHub/C-sharp/Multiplication/Multiplication/bin/Debug/netcoreapp2.0/Multiplication.pdb
+/Users/henrybarefoot/gitHub/C-sharp/Multiplication/Multiplication/obj/Debug/netcoreapp2.0/Multiplication.dll
+/Users/henrybarefoot/gitHub/C-sharp/Multiplication/Multiplication/obj/Debug/netcoreapp2.0/Multiplication.pdb

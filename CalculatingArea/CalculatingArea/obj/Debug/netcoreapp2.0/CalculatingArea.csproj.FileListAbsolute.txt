@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/CalculatingArea/CalculatingArea/obj/Debug/netcoreapp2.0/CalculatingArea.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/CalculatingArea/CalculatingArea/obj/Debug/netcoreapp2.0/CalculatingArea.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/CalculatingArea/CalculatingArea/obj/Debug/netcoreapp2.0/CalculatingArea.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/CalculatingArea/CalculatingArea/obj/Debug/netcoreapp2.0/CalculatingArea.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/CalculatingArea/CalculatingArea/bin/Debug/netcoreapp2.0/CalculatingArea.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/CalculatingArea/CalculatingArea/bin/Debug/netcoreapp2.0/CalculatingArea.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/CalculatingArea/CalculatingArea/bin/Debug/netcoreapp2.0/CalculatingArea.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/CalculatingArea/CalculatingArea/bin/Debug/netcoreapp2.0/CalculatingArea.dll
+/Users/henrybarefoot/gitHub/C-sharp/CalculatingArea/CalculatingArea/bin/Debug/netcoreapp2.0/CalculatingArea.pdb
+/Users/henrybarefoot/gitHub/C-sharp/CalculatingArea/CalculatingArea/obj/Debug/netcoreapp2.0/CalculatingArea.dll
+/Users/henrybarefoot/gitHub/C-sharp/CalculatingArea/CalculatingArea/obj/Debug/netcoreapp2.0/CalculatingArea.pdb

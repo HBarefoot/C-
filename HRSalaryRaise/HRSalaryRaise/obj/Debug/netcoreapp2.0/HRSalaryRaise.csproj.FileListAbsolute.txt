@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/HRSalaryRaise/HRSalaryRaise/obj/Debug/netcoreapp2.0/HRSalaryRaise.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/HRSalaryRaise/HRSalaryRaise/obj/Debug/netcoreapp2.0/HRSalaryRaise.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/HRSalaryRaise/HRSalaryRaise/obj/Debug/netcoreapp2.0/HRSalaryRaise.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/HRSalaryRaise/HRSalaryRaise/obj/Debug/netcoreapp2.0/HRSalaryRaise.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/HRSalaryRaise/HRSalaryRaise/bin/Debug/netcoreapp2.0/HRSalaryRaise.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/HRSalaryRaise/HRSalaryRaise/bin/Debug/netcoreapp2.0/HRSalaryRaise.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/HRSalaryRaise/HRSalaryRaise/bin/Debug/netcoreapp2.0/HRSalaryRaise.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/HRSalaryRaise/HRSalaryRaise/bin/Debug/netcoreapp2.0/HRSalaryRaise.dll
+/Users/henrybarefoot/gitHub/C-sharp/HRSalaryRaise/HRSalaryRaise/bin/Debug/netcoreapp2.0/HRSalaryRaise.pdb
+/Users/henrybarefoot/gitHub/C-sharp/HRSalaryRaise/HRSalaryRaise/obj/Debug/netcoreapp2.0/HRSalaryRaise.dll
+/Users/henrybarefoot/gitHub/C-sharp/HRSalaryRaise/HRSalaryRaise/obj/Debug/netcoreapp2.0/HRSalaryRaise.pdb

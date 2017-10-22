@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/MAX/MAX/obj/Debug/netcoreapp2.0/MAX.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/MAX/MAX/obj/Debug/netcoreapp2.0/MAX.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/MAX/MAX/obj/Debug/netcoreapp2.0/MAX.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/MAX/MAX/obj/Debug/netcoreapp2.0/MAX.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/MAX/MAX/bin/Debug/netcoreapp2.0/MAX.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/MAX/MAX/bin/Debug/netcoreapp2.0/MAX.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/MAX/MAX/bin/Debug/netcoreapp2.0/MAX.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/MAX/MAX/bin/Debug/netcoreapp2.0/MAX.dll
+/Users/henrybarefoot/gitHub/C-sharp/MAX/MAX/bin/Debug/netcoreapp2.0/MAX.pdb
+/Users/henrybarefoot/gitHub/C-sharp/MAX/MAX/obj/Debug/netcoreapp2.0/MAX.dll
+/Users/henrybarefoot/gitHub/C-sharp/MAX/MAX/obj/Debug/netcoreapp2.0/MAX.pdb

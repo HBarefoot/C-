@@ -1,0 +1,11 @@
+/Users/henrybarefoot/gitHub/C-sharp/HandlingExepctions/HandlingExepctions/bin/Debug/netcoreapp2.0/HandlingExepctions.deps.json
+/Users/henrybarefoot/gitHub/C-sharp/HandlingExepctions/HandlingExepctions/bin/Debug/netcoreapp2.0/HandlingExepctions.runtimeconfig.json
+/Users/henrybarefoot/gitHub/C-sharp/HandlingExepctions/HandlingExepctions/bin/Debug/netcoreapp2.0/HandlingExepctions.runtimeconfig.dev.json
+/Users/henrybarefoot/gitHub/C-sharp/HandlingExepctions/HandlingExepctions/bin/Debug/netcoreapp2.0/HandlingExepctions.dll
+/Users/henrybarefoot/gitHub/C-sharp/HandlingExepctions/HandlingExepctions/bin/Debug/netcoreapp2.0/HandlingExepctions.pdb
+/Users/henrybarefoot/gitHub/C-sharp/HandlingExepctions/HandlingExepctions/obj/Debug/netcoreapp2.0/HandlingExepctions.csprojResolveAssemblyReference.cache
+/Users/henrybarefoot/gitHub/C-sharp/HandlingExepctions/HandlingExepctions/obj/Debug/netcoreapp2.0/HandlingExepctions.csproj.CoreCompileInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/HandlingExepctions/HandlingExepctions/obj/Debug/netcoreapp2.0/HandlingExepctions.AssemblyInfoInputs.cache
+/Users/henrybarefoot/gitHub/C-sharp/HandlingExepctions/HandlingExepctions/obj/Debug/netcoreapp2.0/HandlingExepctions.AssemblyInfo.cs
+/Users/henrybarefoot/gitHub/C-sharp/HandlingExepctions/HandlingExepctions/obj/Debug/netcoreapp2.0/HandlingExepctions.dll
+/Users/henrybarefoot/gitHub/C-sharp/HandlingExepctions/HandlingExepctions/obj/Debug/netcoreapp2.0/HandlingExepctions.pdb

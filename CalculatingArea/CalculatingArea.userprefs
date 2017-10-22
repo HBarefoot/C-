@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B8A89E40-349A-46FC-BBCB-3964C5B2DFD1}|Default">
+  <MonoDevelop.Ide.ItemProperties.CalculatingArea PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatingArea/Program.cs">
+    <Files>
+      <File FileName="CalculatingArea/Program.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
